@@ -1,5 +1,5 @@
 # PyGaze
-PyGaze is a Python library that is used for eye tracking. PyGaze is easily used within OpenSesame and comes preinstalled in the Windows version of OpenSesame.
+PyGaze is a Python library that is used for eye tracking. PyGaze is easily used within OpenSesame and comes preinstalled in the Windows version of OpenSesame. PyGaze_Tobii_sample_task.osexp is an example of how to use PyGaze. It includes the code necessary to for Tobii.
 
 ## Logging Variables
 There are several options when it comes to logging variables in the eye tracker data file with PyGaze. Below, some options and recommendations are given.
