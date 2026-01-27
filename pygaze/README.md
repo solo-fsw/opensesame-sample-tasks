@@ -1,7 +1,7 @@
 # PyGaze
 PyGaze is a Python library that is used for eye tracking. PyGaze can be used in OpenSesame and comes preinstalled in the Windows version of OpenSesame. Note that Tobii does not work in every Python version, see [SOLO Research Wiki - Tobii and OpenSesame](https://researchwiki.solo.universiteitleiden.nl/xwiki/wiki/researchwiki.solo.universiteitleiden.nl/view/Software/OpenSesame/Tobii%20and%20OpenSesame/) for more information. 
 
-PyGaze_sample_task.osexp is an example of how to use PyGaze. It includes the code necessary for Tobii. For more information on PyGaze and OpenSesame, see https://osdoc.cogsci.nl/4.1/manual/eyetracking/pygaze/. 
+**pygaze_sample_task.osexp** is an example of how to use PyGaze. The code necessary for Tobii is included in the eyetracker_address inline. For EyeLink, this inline can be deleted. For more information on PyGaze and OpenSesame, see https://osdoc.cogsci.nl/4.1/manual/eyetracking/pygaze/. 
 
 ## Initialize PyGaze
 Make sure to configure the pygaze_init object so that it communicates with the correct eye-tracker. Make sure the **Calibrate tracker** option is checked, so that the eye-tracker is calibrated at the start of the task. For EyeLink, make sure to set the **Pupil-size mode** to the same mode as set on the EyeLink host PC
