@@ -1,4 +1,4 @@
-OpenSesame Sample Tasks
+# OpenSesame Sample Tasks
 This repo contains OpenSesame sample tasks created/modified by SOLO.
 
 To download this repo (and all samples in it), click on the green Code button and click Download ZIP.
