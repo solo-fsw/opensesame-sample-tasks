@@ -28,3 +28,7 @@ __pycache__/
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
+
+# --- OpenSesame ---
+*.csv
+*.tsv
