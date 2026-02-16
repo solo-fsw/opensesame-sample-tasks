@@ -1,5 +1,5 @@
 # Titta Package
-The titta package allows to use eye trackers with python and can be used to integrate Tobii Pro Lab in OpenSesame experiments. Note that Tobii does not work in every Python version, see [SOLO Research Wiki - Tobii and OpenSesame](
+The titta package allows to use eye trackers with python and can be used to integrate Tobii Pro Lab in OpenSesame experiments. Note that Tobii does not work in every Python version, see [SOLO Research Wiki - Tobii and OpenSesame]
 
 **titta_sampleexp.osexp** is an example OpenSesame task of how to use Titta with Tobii Pro Lab integration. We adapted the example psychopy coder file which can be accessed here: https://github.com/marcus-nystrom/Titta. Note that you also need to create an External Presenter project in Tobii  Pro Lab to record the data. As the plugin itself does not provide integration with Tobii Pro Lab, several python inlines need to be used to access the toolbox. For more information on Titta and OpenSesame, see https://github.com/dev-jam/opensesame-plugin-titta_eyetracking. 
 
