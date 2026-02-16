@@ -26,4 +26,4 @@ During the stimulus presentation, the images are presented for a set duration, w
 It is important to stop the recording in Tobii Pro Lab at the end of the experiment in an inline that is placed at the end of the experiment sequence (see the "session_end" inline). 
 
 ## Tobii Pro Lab 
-You need to create an external presenter project in Tobii Pro Lab by going to Create new project - External Presenter - Create. Make sure to keep the project open and on the `Record` tab before starting the experiment in OpenSesame. The External Presenter box will change the status to "Connected" once the experiment started and OpenSesame successfully connected to Tobii Pro Lab. 
+You need to create an external presenter project in Tobii Pro Lab by going to **Create new project - External Presenter - Create**. Make sure to keep the project open and on the `Record` tab before starting the experiment in OpenSesame. The External Presenter box will change the status to "Connected" once the experiment started and OpenSesame successfully connected to Tobii Pro Lab. 
